@@ -1,0 +1,354 @@
+item {
+id: 1
+name: 'test_strip'
+}
+
+item {
+id: 2
+name: 'test_strip'
+}
+
+item {
+id: 3
+name: 'test_strip'
+}
+
+item {
+id: 4
+name: 'test_strip'
+}
+
+item {
+id: 5
+name: 'test_strip'
+}
+
+item {
+id: 6
+name: 'test_strip'
+}
+
+item {
+id: 7
+name: 'test_strip'
+}
+
+item {
+id: 8
+name: 'test_strip'
+}
+
+item {
+id: 9
+name: 'test_strip'
+}
+
+item {
+id: 10
+name: 'test_strip'
+}
+
+item {
+id: 11
+name: 'test_strip'
+}
+
+item {
+id: 12
+name: 'test_strip'
+}
+
+item {
+id: 13
+name: 'test_strip'
+}
+
+item {
+id: 14
+name: 'test_strip'
+}
+
+item {
+id: 15
+name: 'test_strip'
+}
+
+item {
+id: 16
+name: 'test_strip'
+}
+
+item {
+id: 17
+name: 'test_strip'
+}
+
+item {
+id: 18
+name: 'test_strip'
+}
+
+item {
+id: 19
+name: 'test_strip'
+}
+
+item {
+id: 20
+name: 'test_strip'
+}
+
+item {
+id: 21
+name: 'test_strip'
+}
+
+item {
+id: 22
+name: 'test_strip'
+}
+
+item {
+id: 23
+name: 'test_strip'
+}
+
+item {
+id: 24
+name: 'test_strip'
+}
+
+item {
+id: 25
+name: 'test_strip'
+}
+
+item {
+id: 26
+name: 'test_strip'
+}
+
+item {
+id: 27
+name: 'test_strip'
+}
+
+item {
+id: 28
+name: 'test_strip'
+}
+
+item {
+id: 29
+name: 'test_strip'
+}
+
+item {
+id: 30
+name: 'test_strip'
+}
+
+item {
+id: 31
+name: 'test_strip'
+}
+
+item {
+id: 32
+name: 'test_strip'
+}
+
+item {
+id: 33
+name: 'test_strip'
+}
+
+item {
+id: 34
+name: 'test_strip'
+}
+
+item {
+id: 35
+name: 'test_strip'
+}
+
+item {
+id: 36
+name: 'test_strip'
+}
+
+item {
+id: 37
+name: 'test_strip'
+}
+
+item {
+id: 38
+name: 'test_strip'
+}
+
+item {
+id: 39
+name: 'test_strip'
+}
+
+item {
+id: 40
+name: 'test_strip'
+}
+
+item {
+id: 41
+name: 'test_strip'
+}
+
+item {
+id: 42
+name: 'test_strip'
+}
+
+item {
+id: 43
+name: 'test_strip'
+}
+
+item {
+id: 44
+name: 'test_strip'
+}
+
+item {
+id: 45
+name: 'test_strip'
+}
+
+item {
+id: 46
+name: 'test_strip'
+}
+
+item {
+id: 47
+name: 'test_strip'
+}
+
+item {
+id: 48
+name: 'test_strip'
+}
+
+item {
+id: 49
+name: 'test_strip'
+}
+
+item {
+id: 50
+name: 'test_strip'
+}
+
+item {
+id: 51
+name: 'test_strip'
+}
+
+item {
+id: 52
+name: 'test_strip'
+}
+
+item {
+id: 53
+name: 'test_strip'
+}
+
+item {
+id: 54
+name: 'test_strip'
+}
+
+item {
+id: 55
+name: 'test_strip'
+}
+
+item {
+id: 56
+name: 'test_strip'
+}
+
+item {
+id: 57
+name: 'test_strip'
+}
+
+item {
+id: 58
+name: 'test_strip'
+}
+
+item {
+id: 59
+name: 'test_strip'
+}
+
+item {
+id: 60
+name: 'test_strip'
+}
+
+item {
+id: 61
+name: 'test_strip'
+}
+
+item {
+id: 62
+name: 'test_strip'
+}
+
+item {
+id: 63
+name: 'test_strip'
+}
+
+item {
+id: 64
+name: 'test_strip'
+}
+
+item {
+id: 65
+name: 'test_strip'
+}
+
+item {
+id: 66
+name: 'test_strip'
+}
+
+item {
+id: 67
+name: 'test_strip'
+}
+
+item {
+id: 68
+name: 'test_strip'
+}
+
+item {
+id: 69
+name: 'test_strip'
+}
+
+item {
+id: 70
+name: 'test_strip'
+}
+
+item {
+id: 71
+name: 'test_strip'
+}
