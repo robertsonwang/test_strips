@@ -33,9 +33,9 @@ if [ -z "$(ls -A images/raw-data/4.0-6.0)" ]; then
     ## configure to pull from s3
 	aws configure
 	## pull from s3
-	aws s3 cp s3://teststripts4.0-6.0 ~/images/raw-data/4.0-6.0
-	aws s3 cp s3://teststripts6.5-7.5 ~/images/raw-data/6.5-7.5
-	aws s3 cp s3://teststrips8.0-9.0 ~/images/raw-data/8.0-9.0
+	aws s3 cp s3://teststrips4.0-6.0 ~/Users/robertsonwang/Desktop/Python/test_strips/raw_input/
+	aws s3 cp s3://teststrips6.5-7.5 ~/Users/robertsonwang/Desktop/Python/test_strips/raw_input/
+	aws s3 cp s3://teststrips8.0-9.0 ~/Users/robertsonwang/Desktop/Python/test_strips/raw_input/
 fi
 
 ## clone tensorflow from git if doesnt exist

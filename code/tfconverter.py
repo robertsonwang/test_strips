@@ -7,7 +7,7 @@ flags = tf.app.flags
 flags.DEFINE_string('output_path', '', 'Path to output TFRecord')
 FLAGS = flags.FLAGS
 
-with open('/Users/robertsonwang/Desktop/bb_images/data/bound_results_train.json') as data_file:    
+with open('/Users/robertsonwang/Desktop/Python/test_strips/data/bound_results_train.json', 'rb') as data_file:    
     bboxes = json.load(data_file)
 
 def importImage(fileName):
@@ -58,6 +58,7 @@ def main(_):
     for image in bboxes.keys():
         image = str(image)
         image_jpg = importImage(image)
+
         xmin, xmax, ymin, ymax = float(bboxes[image][0][0]), float(bboxes[image][1][0]), \
                                 float(bboxes[image][0][1]), float(bboxes[image][1][1])
         tf_example = create_tf_example(image_jpg, image, xmin, xmax, ymin, ymax)
