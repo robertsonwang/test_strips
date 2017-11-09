@@ -1,0 +1,3 @@
+#The highest scores are ranked first
+#The highest ranked boxes (based on score) are ranked first
+#Look at what classes[i] returns
