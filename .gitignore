@@ -1,3 +1,5 @@
 raw_input/
 raw_input/*
 data/frozen_inference_graph.pb
+shards/
+shards/*
